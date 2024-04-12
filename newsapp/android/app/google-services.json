@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000709436967",
+    "project_id": "newsappcollege",
+    "storage_bucket": "newsappcollege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000709436967:android:61040eb666c9e7269a8002",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWL7d4gBM4czkAzYIRrIjCWqarNpHmaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
